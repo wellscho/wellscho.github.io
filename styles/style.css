@@ -1,0 +1,35 @@
+html {
+    font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Noto Serif TC', serif;
+    background-color: #00539F;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 5;
+    letter-spacing: 1px;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 50px 20px 20px 20px;
+    border: 15px solid greenyellow;
+  }
+  h1 {
+    margin: 0;
+    padding: 2px 0;    
+    color: #00539F;
+    text-shadow: 3px 6px 5px black;
+  }
+  /* comment */
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
